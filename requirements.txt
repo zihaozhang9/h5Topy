@@ -1,0 +1,6 @@
+#pip install -U -r requirements.txt
+h5py==2.10.0
+keras==2.1.5
+opencv-python==3.4.1.15
+opencv-contrib-python==3.4.1.15
+tensorflow==1.9.0
